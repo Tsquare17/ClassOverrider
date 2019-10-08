@@ -10,7 +10,6 @@
       "email": "trevor@trevomail.com"
     }
   ],
-  "minimum-stability": "dev",
   "require": {
     "php": "^7.1"
   },
