@@ -1,0 +1,22 @@
+{
+  "name": "tsquare/classoverrider",
+  "version": "1.0.0",
+  "description": "Override PHP Classes using a path outside of your project, to make customizations that might otherwise be overwritten on an update.",
+  "keywords": ["PHP", "WP", "WordPress", "Classes", "Override"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Trevor Thompson",
+      "email": "trevor@trevomail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {
+    "php": "^7.1",
+  },
+  "autoload": {
+    "psr-4": {
+      "Tsquare\\ClassOverrider\\": "src/"
+    }
+  }
+}
