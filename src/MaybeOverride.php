@@ -9,7 +9,7 @@
 namespace Tsquare\ClassOverrider;
 
 /**
- * Class ClassOverrider
+ * Class MaybeOverride
  *
  * Either Instantiate the provided class, or an overriding class if one exists.
  *
